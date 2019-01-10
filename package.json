@@ -1,0 +1,26 @@
+{
+  "name": "ia-ai",
+  "version": "1.0.0",
+  "description": "Plabs IOT platform",
+  "main": "index.js",
+  "dependencies": {
+    "framer": "^0.10.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-framer": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Polaris Labs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeelPi/IA-AI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NeelPi/IA-AI/issues"
+  },
+  "homepage": "https://github.com/NeelPi/IA-AI#readme"
+}
